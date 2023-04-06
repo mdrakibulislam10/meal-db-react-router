@@ -21,7 +21,6 @@ const Dashboard = () => {
                     <Line dataKey="idMeal" />
                 </LineChart>
             </ResponsiveContainer>
-
         </div>
     );
 };
